@@ -1,6 +1,13 @@
 # Spatial Analysis Book
 
-Repository for the chapter's code of the book: [Χωρική Ανάλυση: Θεωρία και εφαρμογές με την γλώσσα R](https://www.disigma.gr/xorikh-analysh.html)
+Repository for the chapter's code of the book: 
+
+[Δημήτρης Καβρουδάκης (2020) Χωρική Ανάλυση: Θεωρία και εφαρμογές με την γλώσσα R, ΔΙΣΙΓΜΑ, Θεσσαλονίκη](https://www.disigma.gr/xorikh-analysh.html)
+
+* Σελίδες: 312
+* ISBN13: 978-618-202-021-0
+* Κωδικός στον Εύδοξο: 94701895 
+
 
 # Code scripts
 
