@@ -23,3 +23,7 @@ https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5f
 
 ![alt text](https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chorikh-analysh.jpg)
 
+![alt text](https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/backcover_chorikh-analysh.jpg)
+
+
+
