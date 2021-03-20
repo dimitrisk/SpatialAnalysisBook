@@ -1,4 +1,4 @@
 # SpatialAnalysisBook
 Spatial Analysis Book
 
-Repository for the chapter's code of the book: "Χωρική Ανάλυση: Θεωρία και εφαρμογές με την γλώσσα R"
+Repository for the chapter's code of the book: [Χωρική Ανάλυση: Θεωρία και εφαρμογές με την γλώσσα R](https://www.disigma.gr/xorikh-analysh.html)
