@@ -9,7 +9,7 @@ Repository for the chapter's code of the book:
 * Κωδικός στον Εύδοξο: 94701895 
 
 
-# Code scripts
+## Code scripts
 
 The 10 scripts refere to the 10 chapters of the book:
 
