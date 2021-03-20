@@ -1,6 +1,6 @@
 # Spatial Analysis Book
 
-Repository for the chapter's code of the book: 
+Repository of the book's code: 
 
 [Δημήτρης Καβρουδάκης (2020) Χωρική Ανάλυση: Θεωρία και εφαρμογές με την γλώσσα R, ΔΙΣΙΓΜΑ, Θεσσαλονίκη](https://www.disigma.gr/xorikh-analysh.html)
 
