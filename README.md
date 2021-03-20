@@ -15,6 +15,7 @@ The 10 scripts refere to the 10 chapters of the book:
 
 * [01-Statistics.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/01-Statistics.r): Basic introductory statistical measures
 * [02-Spatial_Data.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/02-Spatial_Data.r): Load, visualize and examine basic Spatial Data
+* [03-Centrality.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/03-Centrality.r): Centrality estimation, Centers
 
 
 ![alt text](
