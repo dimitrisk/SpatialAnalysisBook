@@ -17,6 +17,8 @@ The 10 scripts refer to the 10 chapters of the book:
 * [02-Spatial_Data.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/02-Spatial_Data.r): Load, visualize and examine basic Spatial Data
 * [03-Centrality.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/03-Centrality.r): Centrality estimation, Centers
 
+
+<div class="imgContainer">
 <img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_chorikh-analysh.jpg" width="40%" alt="some_text">
 
 
@@ -24,5 +26,5 @@ The 10 scripts refer to the 10 chapters of the book:
 
 <img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/backcover_chorikh-analysh.jpg" width="40%" alt="some_text">
 
-
+<div/>
 
