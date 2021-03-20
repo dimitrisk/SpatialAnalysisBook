@@ -18,13 +18,12 @@ The 10 scripts refer to the 10 chapters of the book:
 * [03-Centrality.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/03-Centrality.r): Centrality estimation, Centers
 
 
+<img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chorikh-analysh.jpg" alt="some_text">
 <div class="imgContainer">
-  
-<img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chorikh-analysh.jpg" width="80%" alt="some_text">
+ 
+<img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_chorikh-analysh.jpg" width="50%" alt="some_text">
 
-<img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_chorikh-analysh.jpg" width="40%" alt="some_text">
-
-<img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/backcover_chorikh-analysh.jpg" width="40%" alt="some_text">
+<img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/backcover_chorikh-analysh.jpg" width="50%" alt="some_text">
 
 <div/>
 
