@@ -16,6 +16,7 @@ The 10 scripts refer to the 10 chapters of the book:
 * [01-Statistics.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/01-Statistics.r): Basic introductory statistical measures
 * [02-Spatial_Data.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/02-Spatial_Data.r): Load, visualize and examine basic Spatial Data
 * [03-Centrality.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/03-Centrality.r): Centrality estimation, Centers
+* [04-Density.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/04-Density.r): Quadrat count, Density, Intensity, KDE
 
 
 <img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chorikh-analysh.jpg" alt="some_text">
