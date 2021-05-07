@@ -18,6 +18,8 @@ The 10 scripts refer to the 10 chapters of the book:
 * [03-Centrality.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/03-Centrality.r): Centrality estimation, Centers
 * [04-Density.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/04-Density.r): Quadrat count, Density, Intensity, KDE
 * [05-Point_Pattern.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/05-Point_Pattern.r): Distance matrix, Distance functions (G, K, F, L, J)
+* [06-Hypothesis Testing.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/06-Hypothesis Testing.r): Hypothesis Testing, Simulations, cross-distances, multitype distance functions
+* 
 
 
 <img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chorikh-analysh.jpg" alt="some_text">
