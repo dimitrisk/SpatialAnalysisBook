@@ -20,7 +20,7 @@ The 10 scripts refer to the 10 chapters of the book:
 * [05-Point_Pattern.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/05-Point_Pattern.r): Distance matrix, Distance functions (G, K, F, L, J)
 * [06-HypothesisTesting.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/06-HypothesisTesting.r): Hypothesis Testing, Simulations, cross-distances, multitype distance functions
 * [07-Spatial_Interpolation.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/07-Spatial_Interpolation.r): Spatial interpolation, IDW, simulations, evaluation
-* 
+* [08-Neighbours.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/08-Neighbours.r): Neighbour structures, Calculations on Neighbouring values
 
 
 
