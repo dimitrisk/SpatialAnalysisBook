@@ -23,16 +23,3 @@ The 10 scripts refer to the 10 chapters of the book:
 * [08-Neighbours.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/08-Neighbours.r): Neighbour structures, Calculations on Neighbouring values
 * [09-Association.r](https://github.com/dimitrisk/SpatialAnalysisBook/blob/master/09-Association.r): Indices of local/global spatial association. Moran's I, Getis-Ord's G, Geary's C
 * []()
-
-
-
-
-<img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chorikh-analysh.jpg" alt="some_text">
-<div class="imgContainer">
- 
-<img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/cover_chorikh-analysh.jpg" width="50%" alt="some_text">
-
-<img src="https://www.disigma.gr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/a/backcover_chorikh-analysh.jpg" width="50%" alt="some_text">
-
-<div/>
-
