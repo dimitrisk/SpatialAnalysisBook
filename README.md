@@ -8,6 +8,9 @@ Repository of the book's code:
 * ISBN13: `978-618-202-021-0`
 * Κωδικός στον Εύδοξο: `94701895` 
 
+## Επικοινωνία
+
+[www.dimitrisk.gr](www.dimitrisk.gr)
 
 ## Code scripts
 
