@@ -10,7 +10,7 @@ Repository of the book's code:
 
 ## Επικοινωνία
 
-[www.dimitrisk.gr](www.dimitrisk.gr)
+[http://www.dimitrisk.gr](http://www.dimitrisk.gr)
 
 ## Code scripts
 
